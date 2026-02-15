@@ -4680,7 +4680,7 @@ sup, sub {
   }
 }
 #particles-js {
-  background: linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  background: linear-gradient(#01303f, #01303f);
   display: flex;
   vertical-align: bottom;
   width: 100%;
@@ -4763,11 +4763,11 @@ sup, sub {
   transition: all 0.7s;
 }
 .header-icons .icon:hover {
-  color: linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  color: linear-gradient(#01303f, #01303f);
   background: #FFF;
 }
 .header-icons .icon:active {
-  color: linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  color: linear-gradient(#01303f, #01303f);
   background: #FFF;
 }
 @media only screen and (min-width: 550px) {
@@ -4878,7 +4878,7 @@ img {
   margin: 0;
 }
 .user-projects li {
-  color: linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  color: linear-gradient(#01303f, #01303f);
   font-size: 1.1rem;
 }
 .user-projects p {
@@ -4928,9 +4928,9 @@ img {
   display: inline-block;
   margin: 10px 0px;
   padding: 5px;
-  color: linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  color: linear-gradient(#01303f, #01303f);
   background-color: transparent;
-  border: 1px solid linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  border: 1px solid linear-gradient(#01303f, #01303f);
   border-radius: 10px;
   text-align: center;
   outline: none;
@@ -4952,7 +4952,7 @@ img {
 }
 
 .footer {
-  background: linear-gradient(rgba(39, 41, 58, 0.8235294118), rgba(39, 41, 58, 0.8235294118));
+  background: linear-gradient(#01303f, #01303f);
   padding: 10px 0;
   margin-top: 100px;
   text-align: center;
