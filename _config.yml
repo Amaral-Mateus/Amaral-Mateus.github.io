@@ -1,13 +1,13 @@
 # Site settings
-title: Olá, meu nome é Mateus
+title: Mateus Amaral
 description: Website profissional de Mateus Amaral
 #baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Mateus Amaral
-user_description: Desenvolvimento de Software
-user_title: Engenheiro de Computação
+user_description: Raylways Computer Engineer
+user_title: Computer Engineer
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
